@@ -1,6 +1,7 @@
 # Logistics-Operations
 An end-to-end analysis of trucking operations (Jan 2022 – Dec 2024): revenue, fleet, drivers, safety, lanes, fuel and service performance.
-![](SBS.jpg)
+![](Logisticimage.avif)
+
 
 ## Table of Contents
 - Project Overview
